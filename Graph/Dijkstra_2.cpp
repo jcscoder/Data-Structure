@@ -183,4 +183,5 @@ void Dijkstra::freeMemory() {
  		if (v != des) cout << " -> ";
  	}
  	cout << endl;
+	 return 0;
  }
